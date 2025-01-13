@@ -7,8 +7,12 @@ Bu proje, C dilinde yaptığım bir butonlu hesap makinesi uygulamasıdır. Basi
 
 Özellikler
 Toplama, çıkarma, çarpma ve bölme işlemleri
+
+
 Kullanıcı dostu butonlarla arayüz
-Hatalı girişlerde uyarı
+
+
+Hatalı girişlerde uyarı verir.
 
 ![Ekran görüntüsü 2025-01-12 215121](https://github.com/user-attachments/assets/519835a9-266c-4abd-b044-3ca46de378ed)
 
